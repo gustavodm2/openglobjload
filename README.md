@@ -20,4 +20,5 @@ Este projeto é um visualizador de modelo 3D utilizando OpenGL, GLEW, GLFW, GLM 
 - Shader não compila: Verifique os logs do shader para identificar erros de sintaxe.
 
 ### Observações
-Este projeto é uma base para um visualizador de modelos 3D. Pode ser estendido para incluir texturas, iluminação, ou manipulação de modelos mais complexos.
+- Este projeto é uma base para um visualizador de modelos 3D. Pode ser estendido para incluir texturas, iluminação, ou manipulação de modelos mais complexos.
+- Path do .obj deve ser absoluto.
