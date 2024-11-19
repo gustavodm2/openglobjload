@@ -22,3 +22,4 @@ Este projeto é um visualizador de modelo 3D utilizando OpenGL, GLEW, GLFW, GLM 
 ### Observações
 - Este projeto é uma base para um visualizador de modelos 3D. Pode ser estendido para incluir texturas, iluminação, ou manipulação de modelos mais complexos.
 - Path do .obj deve ser absoluto.
+- Compile com o próprio compilador da IDE.
